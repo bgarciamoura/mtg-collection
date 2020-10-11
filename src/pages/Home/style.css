@@ -1,0 +1,12 @@
+div {
+    background-color: aliceblue;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div h1 {
+    font: 500 1.6rem Archivo;
+    color: black;
+}
